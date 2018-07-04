@@ -1,5 +1,5 @@
 package main
-package.io
+
 
 import (
 	"log"
