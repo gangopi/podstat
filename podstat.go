@@ -1,5 +1,5 @@
 package main
-void main ()
+java.lang package
 
 import (
 	"log"
