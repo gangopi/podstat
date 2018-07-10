@@ -1,7 +1,4 @@
 package main
-java.lang package
-void main()
-print ln()
 
 import (
 	"log"
