@@ -1,4 +1,5 @@
 package main
+void main ()
 
 import (
 	"log"
